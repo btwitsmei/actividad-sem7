@@ -3,7 +3,7 @@ se utilizo react para generar una tabla que muestre la siguiente información de
 </br>photo
 </br>full name
 </br>email
-</br>gender      
+</br>gender
 </br>phone
 </br>country
 </br>city
